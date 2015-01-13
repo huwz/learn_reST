@@ -11,6 +11,7 @@
 .. toctree::
    :maxdepth: 2
 
+   how_to_install
    learn_rst
 
 索引
