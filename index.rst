@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to learn_rst's documentation!
-=====================================
+学习reStructuredText
+====================
 
-Contents:
+目录:
 
 .. toctree::
    :maxdepth: 2
 
    learn_rst
 
-Indices and tables
-==================
+索引
+====
 
 * :ref:`genindex`
 * :ref:`modindex`
