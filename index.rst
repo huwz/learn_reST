@@ -13,6 +13,7 @@
 
    how_to_install
    learn_rst
+   release_to_rtd
 
 索引
 ====
