@@ -15,8 +15,8 @@ sphinx+sublime3构造reST编辑环境
 8. 安装sublime3（未注册版本）
 9. 给sublime3安装一些必要的插件:
     
-    * Package Control
-    * sublime-rst-completion
+    * `Package Control <https://packagecontrol.io/installation>`_
+    * `sublime-rst-completion <https://github.com/mgaitan/sublime-rst-completion>`_
     * RestructuredText Improved [1]_
     * OmniMarkupPreviewer
 
